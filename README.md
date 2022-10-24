@@ -16,8 +16,9 @@
 - Have git installed on the Computer
 - Have a browser install on the Computer
 
+### Demo and Documentation
 - [Live Demo](https://j-tee.github.io/my-calculator/dist/)
-- [Project Documentation Link](https://drive.google.com/file/d/1gF8viyTfMZeCp9uhoINoN3TIzEUL7q0H/view?usp=sharing)
+- [Project Documentation Link](https://drive.google.com)
 
 ### Setup
 
