@@ -39,7 +39,7 @@
   grid-template: repeat(5, 1fr) / repeat(4, 1fr);
 }
 
-#zero {
+.zero {
   grid-column: span 2;
 }
 
