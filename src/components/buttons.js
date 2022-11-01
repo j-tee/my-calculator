@@ -1,5 +1,4 @@
 /* eslint-disable react/button-has-type */
-/* eslint-disable no-undef */
 /* eslint-disable react/destructuring-assignment */
 /* eslint-disable react/prop-types */
 const Button = (props) => (
