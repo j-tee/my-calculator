@@ -20,9 +20,72 @@
   -webkit-appearance: none;
 }
 
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  padding-left: 2rem;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0.5rem 0 7rem 0;
+}
+
+.page-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.page-content p {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.navBar ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-between;
+  text-decoration: none;
+  color: inherit;
+}
+
+.navBar ul li {
+  text-decoration: none;
+  border-right: 2px solid black;
+  text-align: center;
+  padding: 0 10px 0 10px;
+}
+
+.App {
+  padding: 0 2rem 0 2rem;
+}
+
+.navBar ul a {
+  font-size: 1.5rem;
+}
+
+.navBar ul li:last-child {
+  border-right: 0;
+}
+
 .calculator {
-  max-width: 600px;
+  width: 60vw;
   margin: 0 auto;
+}
+
+.welcome p {
+  margin-top: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+.quote p {
+  margin-top: 1.5rem;
+  font-size: 1.3rem;
+  font-weight: 300;
 }
 
 .calc-btn {
