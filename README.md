@@ -17,7 +17,7 @@
 - Have a browser install on the Computer
 
 ### Demo
-[Live Demo](https://polite-entremet-5ed3dd.netlify.app/calculator)
+[Live Demo](https://polite-entremet-5ed3dd.netlify.app/)
 
 ### Setup
 
