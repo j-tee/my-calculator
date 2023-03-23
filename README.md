@@ -16,9 +16,8 @@
 - Have git installed on the Computer
 - Have a browser install on the Computer
 
-### Demo and Documentation
-<!-- - [Live Demo](https://j-tee.github.io/my-calculator/dist/)
-- [Project Documentation Link](https://drive.google.com) -->
+### Demo
+[Live Demo](https://polite-entremet-5ed3dd.netlify.app/calculator)
 
 ### Setup
 
